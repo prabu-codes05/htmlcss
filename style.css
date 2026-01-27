@@ -1,0 +1,14 @@
+ .name,.email
+        {
+            display: block;
+            margin-bottom: 5px;
+
+        }
+
+        .yes,.no,.robot
+        {
+            display: inline-block;
+            width: 200px;
+            vertical-align: middle;
+
+        }
